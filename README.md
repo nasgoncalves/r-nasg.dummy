@@ -3,7 +3,7 @@ r-nasg.dummy
 
 Dummy Ansible role.
 
-Run molecule:
+Run tests:
 ```
 $ molecule test
 ```
