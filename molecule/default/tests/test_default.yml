@@ -1,0 +1,10 @@
+# Molecule managed
+
+---
+file:
+  /root/ansible-flag:
+    exists: true
+    owner: root
+    group: root
+    contains:
+      - flag
